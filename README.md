@@ -1,1 +1,1 @@
-mi comienzo en git githuby todo este lio
+mi comienzo en git github y todo este lio
